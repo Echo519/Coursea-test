@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<style>
+</style>
+</head>
+<body> <Div align="center"> <h style="color:red"> 
+Foward Slash </ h style></div>
+<ul> 
+<li> Swords</li>
+<li> Shields </li>
+<li> Zale </li>
+</ul>
+
+<ol> 
+<li> Swords</li>
+<li> Shields </li>
+<li> Zale </li>
+</ol>
+
+<dl>
+<dt>Magic Sword </dt>
+<dd> Fire<br> Ice <br>Water </dd>
+<dt> Magic Bow </dt>
+<dd> Poison <br> Sleep </dd>
+</dl>
+<ul style="list-style-type:circle";>
+<li> Run</li>
+<li> Jump </li>
+</ul style>
+
+
+</body>
+</html>
